@@ -13,7 +13,7 @@ public class TicketCreateController {
 	public String addTicket(Model theModel) {
 		Ticket theTicket = new Ticket();
 		theModel.addAttribute("ticket", theTicket);
-		theModel.addAttribute("formType", "Add New Ticket");
+		theModel.addAttribute("formType", "Create Ticket");
 		return "formTicket";
 	}
 }

@@ -1,3 +1,3 @@
-insert into Ticket (title, short_description, content, created_on) values ('Blue Screen of Death','Getting BSoD on opening some apps','I installed a game last month after which I am getting BSoD on running many application.','2022-12-29');
-insert into Ticket (title, short_description, content, created_on) values ('Fan error 90B', 'Getting fan error 90B on startup','I am getting an error 90B stating that I need to get the fan checked on startup everytime','2023-01-01');
-insert into Ticket (title, short_description, content, created_on) values ('Data Redundency Check', 'Getting Data Redundency Check error when trying to install game','I am getting Data Redundency Check error when I try to install GTA using a DVD','2008-2-12');
+insert into Ticket (title, short_description, content, created_on) values ('Honda Civic','Honda Civic is Brand New Design','I will Modify the design to increase the RPM','2022-12-30');
+insert into Ticket (title, short_description, content, created_on) values ('Engineering', 'Mechanical is one branch in Engineering','Mechanicall Engineers can move to any job irrespective of the field','2023-01-14');
+insert into Ticket (title, short_description, content, created_on) values ('Great Learning', 'Great Learning is an institute','Great learning is a platform to improve the students knowledge','2022-12-15');
