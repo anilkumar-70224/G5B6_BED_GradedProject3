@@ -1,0 +1,3 @@
+insert into Ticket (title, short_description, content, created_on) values ('Honda Civic','Honda Civic is Brand New Design','I will Modify the design to increase the RPM','2022-12-30');
+insert into Ticket (title, short_description, content, created_on) values ('Engineering', 'Mechanical is one branch in Engineering','Mechanicall Engineers can move to any job irrespective of the field','2023-01-14');
+insert into Ticket (title, short_description, content, created_on) values ('Great Learning', 'Great Learning is an institute','Great learning is a platform to improve the students knowledge','2022-12-15');
